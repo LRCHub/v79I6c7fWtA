@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "新時代",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-25T17:10:32.269511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_新時代_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新時代 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_新時代_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新時代 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_新時代_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【Ado】新時代 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_【Ado】新時代_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_新時代_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "新時代 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_新時代_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_新時代_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "新時代 (ウタ from ONE PIECE FILM RED) - New Genesis (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_新時代_(ウタ_from_ONE_PIECE_FILM_RED)_-_New_Genesis_(UTA_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_新時代_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "新時代 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_新時代_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "新時代 - New Genesis",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_新時代_-_New_Genesis_Ado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/12_新時代_Ado.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "新時代 (ウタ from ONE PIECE FILM RED) - New Genesis (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/13_新時代_(ウタ_from_ONE_PIECE_FILM_RED)_-_New_Genesis_(UTA_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新時代",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_新時代_Ado.txt"
+    }
+  ]
+}
